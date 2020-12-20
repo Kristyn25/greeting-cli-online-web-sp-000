@@ -3,4 +3,3 @@ def greeting(name)
   puts "Please enter your name sot that we can greet you more personally:"
   name = gets.strip
   greeting(name)
-  
